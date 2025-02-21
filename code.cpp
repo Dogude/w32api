@@ -7,21 +7,6 @@
 #pragma comment(lib, "D3D12")
 #pragma comment(lib, "dxgi")
 
-void Box(const char* s) 
-{
-    MessageBoxA(0, s, "Alert", 0);
-
-}
-
-class Test {
-public:
-    Test()
-    {
-        Box("hello");
-    }
-
-};
-
 template <class T>
 void SafeRelease(T** ppT)
 {
