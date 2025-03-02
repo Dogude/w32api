@@ -1,5 +1,4 @@
-#include "framework.h"
-#include "WindowsProject1.h"
+/* include necessary headers here */
 
 LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 {
