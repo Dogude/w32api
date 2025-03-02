@@ -1,5 +1,4 @@
-#include "framework.h"
-#include "WindowsProject1.h"
+// include necessary headers here
 
 #include <d2d1.h>
 #pragma comment(lib,"d2d1")
