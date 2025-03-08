@@ -12,5 +12,5 @@ gathers network adapter mac address, creates buttons.
 
 
 
-sample_window_3.c sets background bmp file on the windows client area
+sample_window_3.c copy bmp file to rectangle on the windows client area
   
